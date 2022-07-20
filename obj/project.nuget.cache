@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bKrWAx+dnvd7kZu8YYuz35qkWE3X5Sa2eB2ZwN99kcUeVTm3MSa5wy2dGefr4xOdbHy4EGbcznaQ1EyHcdaNzg==",
+  "success": true,
+  "projectFilePath": "c:\\Temporal\\DB\\EspacioIntrasolution\\DatabaseProjectIntrasolution\\DatabaseProjectIntrasolution.sqlproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net46\\1.0.0\\microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

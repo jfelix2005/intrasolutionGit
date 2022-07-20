@@ -1,0 +1,45 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Temporal\\DB\\EspacioIntrasolution\\DatabaseProjectIntrasolution\\DatabaseProjectIntrasolution.sqlproj": {}
+  },
+  "projects": {
+    "c:\\Temporal\\DB\\EspacioIntrasolution\\DatabaseProjectIntrasolution\\DatabaseProjectIntrasolution.sqlproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Temporal\\DB\\EspacioIntrasolution\\DatabaseProjectIntrasolution\\DatabaseProjectIntrasolution.sqlproj",
+        "projectName": "DatabaseProjectIntrasolution",
+        "projectPath": "c:\\Temporal\\DB\\EspacioIntrasolution\\DatabaseProjectIntrasolution\\DatabaseProjectIntrasolution.sqlproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "c:\\Temporal\\DB\\EspacioIntrasolution\\DatabaseProjectIntrasolution\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net46"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net46": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net46": {
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

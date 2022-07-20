@@ -1,0 +1,8 @@
+c:\Temporal\DB\EspacioIntrasolution\DatabaseProjectIntrasolution\bin\Debug\DatabaseProjectIntrasolution.dacpac
+c:\Temporal\DB\EspacioIntrasolution\DatabaseProjectIntrasolution\obj\Debug\DatabaseProjectIntrasolution.sqlprojAssemblyReference.cache
+c:\Temporal\DB\EspacioIntrasolution\DatabaseProjectIntrasolution\obj\Debug\Model.xml
+c:\Temporal\DB\EspacioIntrasolution\DatabaseProjectIntrasolution\obj\Debug\refactor.xml
+c:\Temporal\DB\EspacioIntrasolution\DatabaseProjectIntrasolution\obj\Debug\postdeploy.sql
+c:\Temporal\DB\EspacioIntrasolution\DatabaseProjectIntrasolution\obj\Debug\predeploy.sql
+c:\Temporal\DB\EspacioIntrasolution\DatabaseProjectIntrasolution\obj\Debug\DatabaseProjectIntrasolution.dll
+c:\Temporal\DB\EspacioIntrasolution\DatabaseProjectIntrasolution\obj\Debug\DatabaseProjectIntrasolution.pdb

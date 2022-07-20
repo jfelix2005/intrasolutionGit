@@ -9,6 +9,7 @@ Se envia por producto o proyecto
 Resumen de cambios 
 Fecha(aaaa-mm-dd)	Autor			Comentarios
 -----------------	-------------	-------------
+20/07/2022			Jorge Felix		Modificacion para github
 ********************************************************************************************
 */
 CREATE PROCEDURE [dbo].[pr_Alerta_incidentes_pendientes_pase_XXX]
