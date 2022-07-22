@@ -16,6 +16,8 @@ Fecha(aaaa-mm-dd)	Autor			  Comentarios
 16/10/2021			MPE			      Se agrega AmbitoIncidencia y TipoIncidencia
 
 11/11/2021          Valky Salinas     Se agregó un parámetro más a pr_EMAIL_ENVIO_V2.
+
+22/07/2022          JORGE FELIX     Se modifico para nuevo pase
 *********************************************************************************************************************
 */
 CREATE PROCEDURE [dbo].[pr_Alerta_incidentes_pendientes_pase]
