@@ -15,7 +15,7 @@ Fecha(aaaa-mm-dd)	Autor			  Comentarios
 16/10/2021			MPE				   Se agrego campo TipoIncidencia
 
 11/11/2021          Valky Salinas      Se agregó un parámetro más a pr_EMAIL_ENVIO_V2.
-
+22/07/2022			Jorge Felix			Se modifico para el github
 *************************************************************************************************************************
 */
 CREATE PROCEDURE [dbo].[pr_Alerta_incidentes_pendientes_proyecto]
