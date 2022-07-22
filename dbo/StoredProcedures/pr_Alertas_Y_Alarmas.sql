@@ -1,3 +1,23 @@
+/*
+*********************************************************************************************************************
+Nombre:[dbo].[pr_Alerta_incidentes_pendientes_proyecto]
+Fecha de creación: 30/08/2021
+Autor: MPE
+Descripción: Alerta que envia un email por cada proyecto de los Incidentes pendientes por Proyecto 
+			 Los Destinarios es el email soporte@dominiotech.com.pe
+			 Los Incidentes se agrupan por Proyecto y ordenado por Fecha
+			 Se propone enviar semanalmente los lunes a primera hora (de manera temporal se enviara todos los dias) 
+			 Se tomo como base el SP pr_Alerta_incidentes_pendientes_responsable
+*************************************************************************************************************************
+Resumen de cambios 
+Fecha(aaaa-mm-dd)	Autor			  Comentarios
+-----------------	---------------	  --------------------------------------------------------------------------------
+16/10/2021			MPE				   Se agrego campo TipoIncidencia
+
+11/11/2021          Valky Salinas      Se agregó un parámetro más a pr_EMAIL_ENVIO_V2.
+22/07/2022			Jorge Felix			Se modifico para el github
+*************************************************************************************************************************
+*/
 CREATE PROCEDURE [dbo].[pr_Alertas_Y_Alarmas]
 AS
 BEGIN
